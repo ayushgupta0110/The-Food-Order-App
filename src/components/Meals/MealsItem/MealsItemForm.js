@@ -1,6 +1,6 @@
 import React from 'react'
 import Input from '../../UI/Input';
-import classes from './MealsItem.module.css';
+import classes from './MealsItemForm.module.css';
 
 
 const MealsItemForm = (props) => {
